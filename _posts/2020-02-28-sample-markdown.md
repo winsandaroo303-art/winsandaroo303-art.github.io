@@ -1,11 +1,11 @@
----
+Title: Hello, world! I,m win sandar oo
 layout: post
 title: Sample blog post to learn markdown tips
 subtitle: There's lots to learn!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+baseurl: "/" # the subpath of your site, e.g /blog
+url: "https://winsandaroo303-art.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 mathjax: true
 author: Bill Smith
 ---
